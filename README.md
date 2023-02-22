@@ -1,2 +1,2 @@
 # Coffee enjoyer☕ and hobby programmer💻.
-Learning C++
+* C# (Unity, Winforms) and Python developer
