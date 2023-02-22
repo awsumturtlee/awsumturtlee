@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-# Coffee enjoyer and programmer.
+Coffee enjoyer and hobby programmer.
 ## Learning C++
